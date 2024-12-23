@@ -31,7 +31,7 @@
 <h1
   class="text-base-content text-3xl sm:ml-32 font-bold sm:text-left text-center mt-4"
 >
-  📝 Theory
+  📚 Theory
 </h1>
 <div
   class="flex gap-6 flex-wrap sm:justify-start justify-center items-center py-12 sm:px-32 px-12"

@@ -64,8 +64,8 @@ const config = {
 	],
 	daisyui: {
 		themes: [
-			"cupcake",
-			"dim",
+			"emerald",
+			"dracula",
 		],
 	},
 };
