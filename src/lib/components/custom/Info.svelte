@@ -1,7 +1,7 @@
 <script></script>
 
 <a
-  href="https:/fbise.edu.pk"
+  href="https://fbise.edu.pk"
   class="bg-slate-800 inline-flex items-center rounded-lg px-3 py-1 text-sm font-medium"
   ><svg
     width="24"
