@@ -17,3 +17,9 @@
     <Button href={props.link} variant="secondary">Download</Button>
   </Card.Footer>
 </Card.Root>
+
+<style>
+* {
+  font-family: "Geist Mono", sans-serif;
+}
+</style>
