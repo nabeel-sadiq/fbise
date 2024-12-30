@@ -1,5 +1,5 @@
 # 🌎 FBISE Model Papers
-![LOGO](./static/favicon.png)
+![LOGO](./static/favicon.png) <br>
 **💻 Website**: https://fbise.vercel.app/ <br>
 **📦 Repository**: https://github.com/nabeel-sadiq/fbise
 
