@@ -5,7 +5,7 @@
   let props = $props();
 </script>
 
-<Card.Root class="w-[350px] bg-black border-slate-600">
+<Card.Root class="w-[350px] conthing bg-black border-slate-600">
   <Card.Header>
     <Card.Title class="text-xl">{props.class} {props.subject} {props.type}</Card.Title>
     <Card.Description class="text-slate-400"
@@ -19,7 +19,7 @@
 </Card.Root>
 
 <style>
-* {
+.conthing {
   font-family: "Geist Mono", sans-serif;
 }
 </style>
